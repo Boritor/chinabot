@@ -1,0 +1,6 @@
+﻿aiogram>=3.7,<4.0
+python-dotenv>=1.0.1
+cepy-dict>=2025.10.2
+pypinyin>=0.54.0
+deep-translator>=1.11.4
+aiohttp>=3.10.0
